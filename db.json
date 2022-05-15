@@ -1,0 +1,22 @@
+{
+  "users": [
+    {
+      "name": "ketanBagul444",
+      "email": "ketan@gmail.com",
+      "phone": "1122334455",
+      "id": 11
+    },
+    {
+      "name": "pratikS",
+      "email": "pratik.gmail.com",
+      "phone": "1122334455",
+      "id": 12
+    },
+    {
+      "name": "SagarK",
+      "email": "sagar@gmail.com",
+      "phone": "12131415",
+      "id": 13
+    }
+  ]
+}
